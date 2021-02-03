@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Asad Memon",
+    "occupation": "Enthusiastic React Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "wedding.jpg",
+    "bio": "My Name is Asad Aslam Memon, I am currently pursuing my bachelors of engineering from Mumbai University and specializing in INFORMATION TECHNOLOGY . I Love to code and create solutions to the real world problems. I am a Full Stack MERN & PHP developer. I cloned Netflix, Instagram, Imessage, Tiktok, Tinder and lot more real world projects. I worked as an intern in web development startup and I created an admin panel to manage the full ecommerce website for their client. I am currently learning advance Full stack stuffs like DevOps and cloud and also mobile development using React Native. I love to teach people about the computer programming and technologies and would love to connect and share my skills & knowledge with anybody who is interested! ",
+    "contactmessage": "Get in touch with me for online mentoring & Full stack development related stuffs",
+    "email": "amdeveloping0908@gmail.com",
+    "phone": "+91 8879556763",
+    "address": {
+      "street": "Versova Andheri-W",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400061"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/asad.memon.773/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/asad-memon-951b00203/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/asad0908_programmer/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/asad0908",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Rajiv Gandhi Institute Of Technology",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "Currently in S.E",
+        "description": "One of the pro developer in the college."
+      }
+    ],
+    "work": [
+      {
+        "company": "Coaching & Freelancing",
+        "title": "Own Boss",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! I want to solve all the problems existing in the world through my coding skills!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "FIREBASE",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "NODE",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify (1).png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Tiktok Clone (React JS)",
+        "category": "",
+        "image": "Tiktok.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+.draggable__item {
+  color: wheat !important;
+  font-size: 2rem !important;
+  cursor: -moz-grabbing;
+  cursor: grab;
+  cursor: -webkit-grab;
+}
