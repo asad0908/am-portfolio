@@ -37,7 +37,16 @@ const Contact = ({ data }) => {
         </div>
 
         <div className="ten columns">
-          <p className="lead">{contactMessage}</p>
+          <p
+            style={{
+              color: "brown",
+              fontWeight: "bolder",
+              fontFamily: "opensans-bold, sans-serif;",
+            }}
+            className="lead"
+          >
+            {contactMessage}
+          </p>
         </div>
       </div>
 
